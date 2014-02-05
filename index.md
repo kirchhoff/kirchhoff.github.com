@@ -7,7 +7,7 @@ tagline: what is tagling
 ##欢迎光临
 <p>
 一幅图像：
-<img src="/3.jpg" width="350" height="474" />
+<img src="/photos/test.png" width="500" height="474" />
 </p>
 
 Read [Jekyll Quick Start](http://jekyllbootstrap.com/usage/jekyll-quick-start.html)
