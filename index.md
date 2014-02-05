@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Hello World!
-tagline: Supporting tagline
+title: welcome my bolg
+tagline: what is tagling 
 ---
 {% include JB/setup %}
 
