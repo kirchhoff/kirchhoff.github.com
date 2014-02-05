@@ -5,6 +5,10 @@ tagline: what is tagling
 ---
 {% include JB/setup %}
 ##欢迎光临
+<p>
+一幅图像：
+<img src="/12.png" width="400" height="300" />
+</p>
 
 Read [Jekyll Quick Start](http://jekyllbootstrap.com/usage/jekyll-quick-start.html)
 
