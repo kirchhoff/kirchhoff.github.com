@@ -11,9 +11,9 @@ pygments: true
 title : 汤闻达的blog
 tagline: Site Tagline
 author :
-  name : Name Lastname
-  email : blah@email.test
-  github : username
+  name : kirchhoff 
+  email : wdkirchhoff@163.com
+  github : kirchhoff
   twitter : username
   feedburner : feedname
 
